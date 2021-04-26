@@ -5,7 +5,7 @@ Virtual Dice is my first flutter app.
 It uses basic math function, also audioplayers and google fonts plug-in.
 
 ## App Preview
-https://github.com/sid-gondaliya/Images/blob/main/virtual%20dice.gif
+![login](https://github.com/sid-gondaliya/Images/blob/main/virtual%20dice.gif)
 
 
 ## Installation
